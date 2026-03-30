@@ -12,6 +12,10 @@ An intelligent, real-time Yoga Posture Detection and Feedback Web Application po
 
 ---
 
+<img src = "./public/assets/screenshots/LandingPage.jpg"/>
+
+---
+
 ## 🚀 Features
 
 - ✅ Real-time yoga pose detection using **MoveNet**

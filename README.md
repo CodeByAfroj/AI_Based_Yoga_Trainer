@@ -42,6 +42,7 @@ An intelligent, real-time Yoga Posture Detection and Feedback Web Application po
 ---
 
 ## 📁 Folder Structure
+
 YogaAI/
 ├── public/
 │ ├── assets/
@@ -57,6 +58,7 @@ YogaAI/
 │ └── App.jsx, main.jsx
 ├── README.md
 └── package.json
+
 ---
 
 ## 🧩 Installation & Setup

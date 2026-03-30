@@ -60,6 +60,8 @@ YogaAI/
 ├── README.md
 └── package.json
 
+```
+
 ---
 
 ## 🧩 Installation & Setup

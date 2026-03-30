@@ -6,11 +6,16 @@ An intelligent, real-time Yoga Posture Detection and Feedback Web Application po
 ---
 ## Landing Page
 <img src = "./public/assets/screenshots/LandingPage.jpg"/>
+
+---
+
 ## Example Pose
 <img src = "./public/assets/screenshots/pose.jpg"/>
+
+---
+
 ## Recommendaton section 
 <img src = "./public/assets/screenshots/recommendation.jpg"/>
-
 
 ---
 

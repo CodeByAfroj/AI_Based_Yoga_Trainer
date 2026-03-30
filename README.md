@@ -3,18 +3,18 @@
 An intelligent, real-time Yoga Posture Detection and Feedback Web Application powered by **ml5.js**, **p5.js**, and **MoveNet**. This app guides users through yoga poses with instant **visual**, **audio**, and **AI-generated corrections**, supports **multiple asanas**, and provides a **personalized yoga recommendation system** based on health conditions.
 
 
-
-## 📸 Screenshots
-
-| Landing Page / Home page | Example of Pose       | Yoga Recommendations  |
-|--------------------------|-----------------------|-----------------------|
-| ![Landing Page / Home page](./public/assets/screenshots/LandingPage.jpg) | ![Example of Pose](./public/assets/screenshots/pose.jpg) | ![Yoga recommendations](./public/assets/screenshots/recommendation.jpg) |
-
 ---
-
+## Landing Page
 <img src = "./public/assets/screenshots/LandingPage.jpg"/>
+## Example Pose
+<img src = "./public/assets/screenshots/pose.jpg"/>
+## Recommendaton section 
+<img src = "./public/assets/screenshots/recommendation.jpg"/>
+
 
 ---
+
+
 
 ## 🚀 Features
 

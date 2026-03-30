@@ -1,0 +1,11 @@
+@import "tailwindcss";
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+body {
+  /* background: linear-gradient(to left ,#f9ab70,#f4df76d2, #fca46e); */
+  background: radial-gradient(circle at center ,#fbe288 0%,#ffb282 30%, #ffb282 100%);
+  
+}
